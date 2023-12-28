@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
 </div>
-<p> I am Ahmed Mokhtar, 1 year experience in native mobile development(android)  </p>
+<h1 align="center">Hi 👋, I'm Ahmed Mokhtar</h1>
 <div align="center">
 
 You have finally discovered my Github profile. <br>
