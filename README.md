@@ -9,8 +9,10 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 
-✔  🔭 &nbsp; I’m currently working on Android Development.\n
-✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects\n which helps us to make our lives more efficient.<br>
+✔  🔭 &nbsp; I’m currently working on Android Development.
+
+✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
+
 ✔  💬 Ask me about Java, Kotlin, SOLID, Design Patterns, Modularity,\n android sdk, Jetpack Compose, Rest APis and Mobile Ui Design<br>
 <br>
 
