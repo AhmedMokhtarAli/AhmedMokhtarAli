@@ -29,7 +29,6 @@ Ask me anything <a href="https://github.com/AhmedMokhtarAli/"><b>here</b></a><br
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me around the web:</i><br>
 
@@ -64,6 +63,4 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [ABSphreak](https://github.com/ABSphreak)
-
-Last Edited on: 30/08/2020
+Last Edited on: 28/12/2023
