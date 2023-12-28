@@ -13,7 +13,7 @@
 
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 
-✔  💬 Ask me about Java, Kotlin, SOLID, Design Patterns, Modularity,\n android sdk, Jetpack Compose, Rest APis and Mobile Ui Design<br>
+✔  💬 Ask me about Java, Kotlin, SOLID, Design Patterns, Modularity, android sdk, Jetpack Compose, Rest APis and Mobile Ui Design<br>
 <br>
 
 <div align="center">
