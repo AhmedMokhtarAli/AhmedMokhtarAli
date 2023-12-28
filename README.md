@@ -32,7 +32,7 @@ Ask me anything <a href="https://github.com/AhmedMokhtarAli/"><b>here</b></a><br
 
 <i>Follow me around the web:</i><br>
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/ahmed-mokhtar-0517991b3/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://www.linkedin.com/in/ahmed-mokhtar-0517991b3/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/a.mokhtar_20?igsh=Z2s3b3B2NDZzMTc1">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://www.facebook.com/profile.php?id=100007613946902&mibextid=ZbWKwL">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
 
