@@ -8,16 +8,11 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-<div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/AhmedMokhtarAli/"><b>here</b></a><br>
- <a href="mailto:ahmedmokhttar159@gmail.com"><b>email</b></a> me or 
-
-<i>Happy Coding!</i> 😊
-
-</div>
+✔  🔭 &nbsp; I’m currently working on Android Development.
+✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
+✔  💬 Ask me about Java, Kotlin, SOLID, Design Patterns, Modularity, android sdk, Jetpack Compose, Rest APis and Mobile Ui Design<br>
+<br>
 
 <div align="center">
 
